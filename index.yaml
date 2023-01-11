@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  argocd-example-infra:
+  - apiVersion: v1
+    created: "2023-01-11T06:16:34.727476136Z"
+    digest: 0ded482cd5df288180d39cb2ce17a7fc876988b162774c5d9b4c41736f46fb92
+    name: argocd-example-infra
+    urls:
+    - https://github.com/davidfox87/app-of-apps-helm/releases/download/argocd-example-infra-0.1.0/argocd-example-infra-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-11T06:16:34.381336983Z"
