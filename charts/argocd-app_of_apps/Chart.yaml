@@ -1,4 +1,4 @@
 apiVersion: v1
 name: argocd-example-infra
 version: 0.1.1
-description: A Helm chart to deploy app of apps for argocd
+description: A Helm chart to deploy app of apps for argocd.
